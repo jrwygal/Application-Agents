@@ -1,0 +1,11 @@
+Name: Scheduler
+Environment: The schedule program
+Actuators: code to change the schedule, schedule output to screen
+Sensors: user input, course catalog
+Performance Metrics: whether the schedule is possible
+
+Name: 
+Environment: 
+Actuators: 
+Sensors: 
+Performance Metrics: 
